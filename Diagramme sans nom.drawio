@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T08:44:06.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.0" etag="_eeOy59M47R89abx0_9T" type="github"><diagram id="56HFK79LHSmVIJopiOLN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-03T08:59:24.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gJquKOX3-nucSU0ztF6s" version="20.4.0" type="github">
+  <diagram id="56HFK79LHSmVIJopiOLN" name="Page-1">
+    <mxGraphModel dx="1422" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-1" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:100%;height:100%;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;width:85%&quot;&gt;100&lt;/td&gt;&lt;td style=&quot;width:15%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-2" value="Taux horaire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-3" value="" style="shape=mxgraph.signs.travel.euro;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="265" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zg8PCvreRgR5MqLcJDRc-6" target="zg8PCvreRgR5MqLcJDRc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-6" value="Taux horaire" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="25" y="-220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zg8PCvreRgR5MqLcJDRc-7" target="zg8PCvreRgR5MqLcJDRc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-7" value="TJM :&lt;br&gt;Taux journalier Moyen" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="235" y="-220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-8" value="" style="shape=mxgraph.signs.travel.euro;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="155" y="-205" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-9" value="TJM X nombre d&#39;heures" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-10" value="TJM X nombre de jours" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zg8PCvreRgR5MqLcJDRc-14" target="zg8PCvreRgR5MqLcJDRc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-14" value="Extras" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-15" value="extras" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-17" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;+&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="-115" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-18" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;+&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-115" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-19" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;= CA en €&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-20" value="CA -X% de charges" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-21" value="Charges" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="204" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;5.50&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;11&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;16.50&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;22&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-20" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-23" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:100%;height:100%;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;width:85%&quot;&gt;100&lt;/td&gt;&lt;td style=&quot;width:15%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-24" value="TJM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-25" value="" style="shape=mxgraph.signs.travel.euro;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="265" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-26" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:100%;height:100%;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;width:85%&quot;&gt;100&lt;/td&gt;&lt;td style=&quot;width:15%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-27" value="Extras" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-28" value="" style="shape=mxgraph.signs.travel.euro;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="730" y="265" width="60" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

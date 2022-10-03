@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T08:59:24.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gJquKOX3-nucSU0ztF6s" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T09:18:48.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bSMVK-LJjN0ETRHWzTFJ" version="20.4.0" type="github">
   <diagram id="56HFK79LHSmVIJopiOLN" name="Page-1">
     <mxGraphModel dx="1422" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,45 @@
         </mxCell>
         <mxCell id="zg8PCvreRgR5MqLcJDRc-28" value="" style="shape=mxgraph.signs.travel.euro;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="730" y="265" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-29" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Quantité&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-30" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:100%;height:100%;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;width:85%&quot;&gt;100&lt;/td&gt;&lt;td style=&quot;width:15%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="85" y="495" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-31" value="Taux horaire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="555" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-33" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:100%;height:100%;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;width:85%&quot;&gt;100&lt;/td&gt;&lt;td style=&quot;width:15%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="325" y="495" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-34" value="TJM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="555" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-36" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:100%;height:100%;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;width:85%&quot;&gt;100&lt;/td&gt;&lt;td style=&quot;width:15%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="555" y="495" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-37" value="Extras" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="555" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-39" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Brut €&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="155" y="910" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-40" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:100%;height:100%;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;width:85%&quot;&gt;100&lt;/td&gt;&lt;td style=&quot;width:15%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="85" y="705" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-41" value="Taux horaire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="765" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-46" value="Calculer" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="348" y="840" width="105.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-47" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Net €&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="525" y="910" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zg8PCvreRgR5MqLcJDRc-48" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;- XX €&lt;br&gt;Charges&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="350" y="905" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
